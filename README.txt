@@ -1,0 +1,1 @@
+This repo is created to keep the notes of learning AI.
